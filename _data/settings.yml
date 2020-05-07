@@ -7,10 +7,10 @@ custom_links:
     url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
   - title: Testimonials
     url: /testimonials/ 
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: Help Your Community Tab
+    url: https://www.sanjosehothomedeals.com/referrals_help_older_adults?src=referralshelpelders.com
 
 client:
   name: Sharad Gupta
