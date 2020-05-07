@@ -3,12 +3,12 @@ title: Bay Area Real Estate Video Blog with Sharad Gupta
 description: Our mission at Keller Williams Realty Cupertino is to be your best resource for Bay Area real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams Realty Cupertino, your professional Bay Area Real Estate Agents.
 show_custom_links: true
 custom_links:
-  - title: COVID-19 Selling Plan
-    url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
   - title: Testimonials
     url: /testimonials/ 
 show_custom_links_new_tab: true
 custom_links_new_tab:
+  - title: COVID-19 Selling Plan
+    url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
   - title: Help Your Community Tab
     url: https://www.sanjosehothomedeals.com/referrals_help_older_adults?src=referralshelpelders.com
 
