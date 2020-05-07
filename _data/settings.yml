@@ -9,7 +9,7 @@ show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: COVID-19 Selling Plan
     url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
-  - title: Help Your Community Tab
+  - title: Help Your Community
     url: https://www.sanjosehothomedeals.com/referrals_help_older_adults?src=referralshelpelders.com
 
 client:
