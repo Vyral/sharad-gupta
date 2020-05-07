@@ -2596,6 +2596,12 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
+.sold-guaranteed {
+  display: block;
+  margin: 0 auto;
+  max-width: 650px;
+  padding-bottom: 3rem; }
+
 .recruiting {
   text-align: center; }
 

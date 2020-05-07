@@ -1,14 +1,14 @@
 audit_header: false
 title: Bay Area Real Estate Video Blog with Sharad Gupta
 description: Our mission at Keller Williams Realty Cupertino is to be your best resource for Bay Area real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams Realty Cupertino, your professional Bay Area Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
-show_custom_links_new_tab: false
+  - title: Testimonials
+    url: /testimonials/
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: COVID-19 Seller Protection Plan
+    url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
 
 client:
   name: Sharad Gupta
@@ -23,7 +23,7 @@ client:
   brokerage:
   market: Bay Area
   address: 19400 Stevens Creek Blvd, Suite#200, Cupertino CA 95014
-  phone: 408-401-1003
+  phone: 408-763-8133
   phone_type:
   phone2:
   phone2_type:
@@ -91,7 +91,7 @@ images:
   hero_logo_path: /img/logo.png
   hero_logo_path2: /img/logo2.png
   logo_width_number: 60
-  hero_text: Bay Area Real Estate Video Blog
+  hero_text: We Don't Sell Homes, We Change Lives
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
