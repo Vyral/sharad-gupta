@@ -4,6 +4,7 @@ description: Our mission at Keller Williams Realty Cupertino is to be your best 
 show_custom_links: true
 custom_links:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - title: Testimonials
     url: /testimonials/
 show_custom_links_new_tab: true
@@ -17,6 +18,16 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title: COVID-19 Seller Protection Plan
     url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
+=======
+  - title: Testimonials
+    url: /testimonials/ 
+show_custom_links_new_tab: true
+custom_links_new_tab:
+  - title: COVID-19 Selling Plan
+    url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
+  - title: Help Your Community
+    url: https://www.sanjosehothomedeals.com/referrals_help_older_adults?src=referralshelpelders.com
+>>>>>>> 81e0909bc077ff1609382083c2b3e75a0dad10a8
 
 client:
   name: Sharad Gupta
