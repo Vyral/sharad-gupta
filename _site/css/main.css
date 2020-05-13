@@ -1236,7 +1236,7 @@ html[xmlns] .flexslider .slides {
   padding: 10px 20px;
   text-decoration: none;
   font-size: 18px;
-  color: white;
+  color: #ffffff;
   transition: all 0.15s ease-out 0s; }
   .ctalink a {
     text-align: center; }
@@ -1465,7 +1465,15 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 60rem;
+  max-width: 20rem;
+  padding: 0 1rem;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
+
+.sm-site-logo {
+  width: 90%;
+  max-width: 40rem;
+  padding: 0 1rem;
   -webkit-filter: drop-shadow(0px 2px 7px black);
   filter: drop-shadow(0px 2px 7px black); }
 
@@ -1519,12 +1527,12 @@ html {
 ::-moz-selection {
   text-shadow: none;
   background: #b40101;
-  color: white; }
+  color: #ffffff; }
 
 ::selection {
   text-shadow: none;
   background: #b40101;
-  color: white; }
+  color: #ffffff; }
 
 .site-logo, h1.site-title {
   -webkit-animation: 1s ease-in-out fadein;
@@ -1680,7 +1688,7 @@ a {
     text-decoration: none; }
 
 .button, .button-ghost, button, input[type="button"], input[type="submit"] {
-  color: white;
+  color: #ffffff;
   background: #b40101;
   padding: 1rem 2rem;
   border: 1px solid #b40101;
@@ -1688,16 +1696,16 @@ a {
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
     background: #fe1d1d;
     border: 1px solid #b40101;
-    color: white; }
+    color: #ffffff; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
-    color: white; }
+    color: #ffffff; }
 
 .button-ghost {
   background: transparent;
-  border: 1px solid white; }
+  border: 1px solid #ffffff; }
   .button-ghost:hover {
     background: rgba(255, 255, 255, 0.7);
-    border: 1px solid white;
+    border: 1px solid #ffffff;
     color: #b40101; }
 
 .button-ghost.brand {
@@ -1731,7 +1739,7 @@ table tr, table td {
 .warning {
   padding-top: 10rem;
   background: red;
-  color: white; }
+  color: #ffffff; }
 
 .paginator-links {
   text-align: center;
@@ -1860,7 +1868,7 @@ table tr, table td {
 
 .readlink > a {
   background: #b40101;
-  color: white;
+  color: #ffffff;
   border: 1px solid #b40101;
   border-radius: 0px;
   padding: 10px 20px;
@@ -1934,7 +1942,7 @@ table tr, table td {
 .post .post-title {
   font-size: 5rem;
   margin: 2rem 0;
-  color: white;
+  color: #ffffff;
   text-transform: uppercase;
   text-shadow: 0px 2px 7px black; }
 .post .headshot {
@@ -1949,17 +1957,17 @@ table tr, table td {
   margin: 3rem 0; }
 
 .tag-container {
-  color: white;
+  color: #ffffff;
   text-shadow: 0px 2px 7px black;
   margin-bottom: 1rem; }
 
 .tag {
   text-transform: uppercase;
-  color: white;
+  color: #ffffff;
   font-weight: 300; }
 
 .author-attribution {
-  color: white;
+  color: #ffffff;
   font-weight: 300;
   text-shadow: 0px 2px 7px black;
   margin-bottom: 2rem;
@@ -1982,15 +1990,15 @@ table tr, table td {
       margin: 0 auto;
       padding: 0.3rem; }
   .post-share #Twitter {
-    background: white;
+    background: #ffffff;
     border: 0;
     fill: #1DA1F2; }
   .post-share #facebook {
-    background: white;
+    background: #ffffff;
     border: 0;
     fill: #3B5999; }
   .post-share #Google_plus {
-    background: white;
+    background: #ffffff;
     border: 0;
     fill: #D73D32; }
 
@@ -2235,13 +2243,13 @@ table tr, table td {
     .search-box .search-input:-ms-input-placeholder {
       color: #c7c7c7; }
     .search-box .search-input:focus {
-      background: white;
+      background: #ffffff;
       color: #b40101;
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
   .search-box .search-submit {
     background: #b40101;
-    color: white;
+    color: #ffffff;
     padding: 0.9rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
@@ -2263,13 +2271,13 @@ table tr, table td {
     max-width: 95%;
     margin: 0 auto; } }
 .zillow-logo, .trulia-logo, .yelp-logo {
-  fill: white;
+  fill: #ffffff;
   max-height: 3rem;
   position: relative;
   top: 0.5rem; }
 
 .google-logo {
-  fill: white;
+  fill: #ffffff;
   max-height: 3rem;
   position: relative;
   top: 0.5rem; }
@@ -2291,7 +2299,7 @@ table tr, table td {
   border-radius: 0px;
   transition: 0.3s; }
   .review.button svg, .review.button-ghost svg {
-    fill: white;
+    fill: #ffffff;
     width: 100px; }
   .review.button:hover, .review.button-ghost:hover {
     background: #fff;
@@ -2650,7 +2658,7 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 60rem;
+  max-width: 20rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   -webkit-filter: drop-shadow(0px 2px 7px black);

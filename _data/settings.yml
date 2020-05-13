@@ -3,30 +3,12 @@ title: Bay Area Real Estate Video Blog with Sharad Gupta
 description: Our mission at Keller Williams Realty Cupertino is to be your best resource for Bay Area real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams Realty Cupertino, your professional Bay Area Real Estate Agents.
 show_custom_links: true
 custom_links:
-
   - title: Testimonials
     url: /testimonials/
-show_custom_links_new_tab: true
-
   - title: COVID-19 Selling Plan
     url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
   - title: Testimonials
     url: /testimonials/
-show_custom_links_new_tab: false
-
-custom_links_new_tab:
-  - title: COVID-19 Seller Protection Plan
-    url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
-
-  - title: Testimonials
-    url: /testimonials/
-show_custom_links_new_tab: true
-custom_links_new_tab:
-  - title: COVID-19 Selling Plan
-    url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
-  - title: Help Your Community
-    url: https://www.sanjosehothomedeals.com/referrals_help_older_adults?src=referralshelpelders.com
-
 
 client:
   name: Sharad Gupta
@@ -108,7 +90,9 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   hero_logo_path2: /img/logo2.png
-  logo_width_number: 60
+  hero_logo_path3: /img/logo3.png
+  logo_width_number: 20
+  small_logo_width_number: 40
   hero_text: We Don't Sell Homes, We Change Lives
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
