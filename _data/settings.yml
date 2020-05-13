@@ -32,7 +32,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.bayareahothomedeals.com/homeeval
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.bayareahothomedeals.com/Listings/Search/1
+  second_CTA_URL: https://www.sanjosehothomedeals.com/listings/Homes_In_SantaClara_Alameda_SanMateo_ContraCosta_From_850000
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -46,7 +46,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Bay Area Home?"
     CTA_text2: "Search the entire MLS for your Bay Area home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.bayareahothomedeals.com/Listings/Search/1
+    CTA_url2: https://www.sanjosehothomedeals.com/listings/Homes_In_SantaClara_Alameda_SanMateo_ContraCosta_From_850000
 
 lender:
   show_section: false
