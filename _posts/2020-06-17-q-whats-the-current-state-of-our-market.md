@@ -16,6 +16,8 @@ youtube_code: 'https://youtu.be/kg7FnEySDvo'
 ---
 
 {% include youtube.html %}
+ <p style="text-align: center;"><em>
+Here’s what you need to know about our market as we enter summer.</em></p>
 
 The economy and housing market continue to see signs of improvement, particularly in terms of buyer demand. The labor market impact continues to shrink, but mortgage applications and showing appointments keep improving, and there are three reasons why:
 
