@@ -25,7 +25,7 @@ The economy and housing market continue to see signs of improvement, particularl
 
 **2\. Buyer demand is coming back.** After declining by nearly 75% compared to the start of the year, the number of showings booked through Showingtime.com has increased by 0.3% compared to this point in 2019. In other words, showings have increased by more than 50% on a weekly basis since the start of 2020, and they’re 13.2% higher than late February’s pre-crisis levels.&nbsp;
 
-{% include youtube.html %}
+{% include pullquote.html %}
 
 **3\. Supply response is not matching the uptick in demand.** One reason the forecast calls for a slow trajectory for closed sales is that new supply is not rebounding to the same degree as buyer demand. Pending sales are only down slightly, while the pace of new listings coming back to the market has been essentially flat. Even as the economy reopens and buyer demand returns, new supply is desperately needed in order to maintain an upward trend of pending sales so that closed transactions can continue to rise.&nbsp;
 
