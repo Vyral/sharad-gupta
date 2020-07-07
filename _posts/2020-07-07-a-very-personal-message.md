@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/KESPZK0R2d0'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m passionate about helping the elderly through Bay Area Older Adults.</em></p>
+
 I was born and raised in India, where ancient traditions seamlessly mingle with modern-day city life. **A core value in Indian culture is the respect we afford to our seniors who are responsible for inculcating the ancient traditions and sharing their wisdom with our youth.**
 
 Living as joint families, caregiving is part and parcel of our culture. According to our religious beliefs, a child who cares for their grandparents is blessed and considered ikpunar of the accumulation of good karma.
