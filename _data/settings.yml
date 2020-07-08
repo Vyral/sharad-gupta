@@ -7,7 +7,8 @@ custom_links:
     url: https://www.sanjosehothomedeals.com/covid-19_seller_protection_plan
   - title: Testimonials
     url: /testimonials/
-
+  - title: Send a referral to help Bay Area elderly
+    url: https://www.bayareahothomedeals.com/referrals_help_older_adults?src=referralshelpelders.com
 client:
   name: Sharad Gupta
   title:
@@ -47,6 +48,13 @@ second_sidebar_CTA:
     CTA_text2: "Search the entire MLS for your Bay Area home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: https://www.sanjosehothomedeals.com/listings/Homes_In_SantaClara_Alameda_SanMateo_ContraCosta_From_850000
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_title3: "Send a Referral to Help Bay Area Elderly"
+    CTA_text3: "We are on a mission to raise $50K for Bay Area Older Adults. A portion of our fees from every sale goes towards the cause"
+    CTA_link_text3: "Complete the Form"
+    CTA_url3: https://www.bayareahothomedeals.com/referrals_help_older_adults?src=referralshelpelders.com
 
 lender:
   show_section: false

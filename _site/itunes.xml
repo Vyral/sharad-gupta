@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Realty Cupertino - your professional Bay Area Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Sharad Gupta</managingEditor>
-    <lastBuildDate>2020-05-13 10:25:12 -0500</lastBuildDate>
+    <lastBuildDate>2020-07-08 17:25:20 -0500</lastBuildDate>
     <media:copyright>Sharad Gupta</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bay Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,96 +25,116 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
+        <title>A Very Personal Message</title>
+        <link>http://localhost:4000/a-very-personal-message.html</link>
         
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
-        
         <author>Sharad Gupta</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2020-07-07 16:27:18 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Sharad+Gupta/A+Very+Personal+Message.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+I’m passionate about helping the elderly through Bay Area Older Adults.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+I was born and raised in India, where ancient traditions seamlessly mingle with modern-day city life. A core value in Indian culture is the respect we afford to our seniors who are responsible for inculcating the ancient traditions and sharing their wisdom with our youth.
 
+Living as joint families, caregiving is part and parcel of our culture. According to our religious beliefs, a child who cares for their grandparents is blessed and considered ikpunar, or the accumulation of good karma.
 
+I’m blessed with a wonderful life here in California and I’m well aware of the sacrifices my parents and grandparents made to make this life a reality. My memories are vivid of my grandfather carrying me with him and helping me to learn how to ride my first bicycle or with my childhood science projects.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+While the passage of time has taken my grandparents away from me, I pay it forward by supporting Bay Area Older Adults. In the Bay Area, many seniors live alone, one in three have some form of vision loss, and more than 40% of elders age 65 to 84 are widowed. These physical challenges and emotional distress lead to social isolation and detrimental health effects. 
 
-“This is an example of a pull quote”
+“Referrals are the lifeblood of our business.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Social support is one of the most important contributors to a higher quality of life, health, and wellness for seniors. This is why Bay Area Older Adults focuses on improving their social well-being. 
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+This year, we are on a mission to raise $50,000 for Bay Area Older Adults. A portion of our fees from every sale goes toward the cause. You can help us achieve these goals by providing us referrals for your family, friends, or neighbors who may be interested in buying, selling, or investing in real estate. We need your help because referrals are the lifeblood of our business. 
+
+Only with your help can we keep building the business and consistently provide the level of service that ensures our clients are always completely satisfied. We sincerely hope you will tell your friends, family, neighbors, and coworkers about our worthy cause the next time they’re considering a move. Not only will they get the award-winning service that we are known for, but also a solid portion of our income will go toward a very worthy cause. I invite you to visit our website, where you can check out the great work they are doing in our community.
+
+If you have any other real estate questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Sharad+Gupta/A+Very+Personal+Message.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Sharad+Gupta/A+Very+Personal+Message.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>I’m passionate about helping the elderly through Bay Area Older Adults.</itunes:subtitle>
         <itunes:author>Sharad Gupta</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>I’m passionate about helping the elderly through Bay Area Older Adults.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bay Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>Q: What’s the Current State of Our Market?</title>
+        <link>http://localhost:4000/q-whats-the-current-state-of-our-market.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Sharad Gupta</author>
+        <pubDate>2020-06-17 08:20:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Sharad+Gupta/Q-+Whats+the+Current+State+of+Our+Market_.mp4</guid>
+        <description>
+
+
+Here’s what you need to know about our market as we enter summer.
+
+The economy and housing market continue to see signs of improvement, particularly in terms of buyer demand. The labor market impact continues to shrink, but mortgage applications and showing appointments keep improving, and there are three reasons why:
+
+1. Mortgage interest rates are at an all-time low. For a 30-year fixed rate mortgage, we’re seeing an average rate of 3.5%. It’s never been so affordable to borrow money and invest in homeownership. 
+
+2. Buyer demand is coming back. After declining by nearly 75% compared to the start of the year, the number of showings booked through Showingtime.com has increased by 0.3% compared to this point in 2019. In other words, showings have increased by more than 50% on a weekly basis since the start of 2020, and they’re 13.2% higher than late February’s pre-crisis levels. 
+
+“Mortgage applications and showing appointments keep improving.”
+
+3. Supply response is not matching the uptick in demand. One reason the forecast calls for a slow trajectory for closed sales is that new supply is not rebounding to the same degree as buyer demand. Pending sales are only down slightly, while the pace of new listings coming back to the market has been essentially flat. Even as the economy reopens and buyer demand returns, new supply is desperately needed in order to maintain an upward trend of pending sales so that closed transactions can continue to rise. 
+
+If you’d like to talk more about what’s happening in our market, or if you have any questions, don’t hesitate to reach out to me. I’d love to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Sharad+Gupta/Q-+Whats+the+Current+State+of+Our+Market_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Sharad+Gupta/Q-+Whats+the+Current+State+of+Our+Market_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s what you need to know about our market as we enter summer.</itunes:subtitle>
+        <itunes:author>Sharad Gupta</itunes:author>
+        <itunes:summary>Here’s what you need to know about our market as we enter summer.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bay Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Welcome to My Blog</title>
+        <link>http://localhost:4000/welcome-to-my-blog.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
         
           <category>Market Update</category>
         
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
-        
         <author>Sharad Gupta</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2020-05-13 10:42:19 -0500</pubDate>
         <guid></guid>
-        <description>
+        <description>As a real estate professional, I know what’s happening every day in the Bay Area, specifically concerning home values and how these trends and developments will directly affect you. Even as this ongoing pandemic is changing our market, I’m out on the front lines to make sure that those changes are communicated to you.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Therefore, I plan to post  two helpful messages each month on this blog to keep you updated and help you stay on top of what’s happening in the community.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Thank you for taking the time to read this.
 
+Even though the way we buy and sell homes is changing, I’m going to be here to help you through it. Let us know if you have any questions. 
 
+Check back because content will be coming soon!
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+I’m determined to keep you updated on what’s going on with the real estate market. 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:subtitle>
         <itunes:author>Sharad Gupta</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Bay Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
