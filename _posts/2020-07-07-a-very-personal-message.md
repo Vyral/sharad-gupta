@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/OA904ZjPCqo'
 
 I was born and raised in India, where ancient traditions seamlessly mingle with modern-day city life. **A core value in Indian culture is the respect we afford to our seniors who are responsible for inculcating the ancient traditions and sharing their wisdom with our youth.**
 
-Living as joint families, caregiving is part and parcel of our culture. According to our religious beliefs, a child who cares for their grandparents is blessed and considered ikpunar, or the accumulation of good karma.
+Living as joint families, caregiving is part and parcel of our culture. According to our religious beliefs, a child who cares for their grandparents is blessed and considered a punya, or the accumulation of good karma.
 
 I’m blessed with a wonderful life here in California and I’m well aware of the sacrifices my parents and grandparents made to make this life a reality. My memories are vivid of my grandfather carrying me with him and helping me to learn how to ride my first bicycle or with my childhood science projects.
 
