@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sharad-gupta-social-program-yt.jpg
-youtube_code: 'https://youtu.be/OA904ZjPCqo'
+youtube_code: 'https://youtu.be/otAgX4nI9Qg'
 ---
 
 {% include youtube.html %}
