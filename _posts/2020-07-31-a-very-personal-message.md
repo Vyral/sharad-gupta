@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Very Personal Message
-date: 2020-07-07 21:27:18
+date: 2020-07-31 21:27:18
 tags:
   - Real Estate
 excerpt: I’m passionate about helping the elderly through Bay Area Older Adults.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sharad-gupta-social-program-yt.jpg
-youtube_code: 'https://youtu.be/otAgX4nI9Qg'
+youtube_code: 'https://youtu.be/9MnPLEzRXto'
 ---
 
 {% include youtube.html %}
