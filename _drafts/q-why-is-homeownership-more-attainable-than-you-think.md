@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/8-26---sharad-gupta---yt.jpg
 youtube_code: _DbkVMebJsw
 ---
 
-{% include youtube.html %}Remember these five facts before assuming you can’t afford to buy a home.
+{% include youtube.html %}<center>Remember these five facts before assuming you can’t afford to buy a home.</center>
 
 It’s a dream we all have: To own our own home and stop paying rent.&nbsp;
 
