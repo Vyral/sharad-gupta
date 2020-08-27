@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Is Homeownership More Attainable Than You Think?'
-date:
+date: 2020-08-27 19:28:53
 tags:
 excerpt: Remember these five facts before assuming you can’t afford to buy a home.
 enclosure:
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/8-26---sharad-gupta---yt.jpg
 youtube_code: _DbkVMebJsw
 ---
 
-{% include youtube.html %}<center>Remember these five facts before assuming you can’t afford to buy a home.</center>
+{% include youtube.html %}
+
+<center>Remember these five facts before assuming you can&rsquo;t afford to buy a home.</center>
+
+&nbsp;
 
 It’s a dream we all have: To own our own home and stop paying rent.&nbsp;
 
