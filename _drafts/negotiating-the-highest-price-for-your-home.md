@@ -29,7 +29,7 @@ Like anything else, if you have a proven system to follow - and know the signals
 
 <br>**1\. Saying too much during an offer.**
 
-The first and second rules of effective negotiating are to<br>**a)** know what you are legally required to divulge, and<br>**b)** don't say anything more than this in front of someone who is not completely representing your interests.
+The first and second rules of effective negotiating are to:<br>a) know what you are legally required to divulge, and b) don't say anything more than this in front of someone who is not completely representing your interests.
 
 It's very important that a seller thinks through every point he or she is going to make . . .before it is spoken. What you say can and will be used to your buyer's advantage, so don't say anything more than you have to.
 
