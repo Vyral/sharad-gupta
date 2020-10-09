@@ -28,8 +28,8 @@ If you're like most renters, you feel trapped within the walls of a house or apa
 
 A new FREE Special Report entitled "How To Stop Paying Rent and Own Your Own Home" has already helped dozens of local renters get out from under their landlord's finger, and move into a wonderful home they can truly call their own. You can make this move too by discovering the important steps detailed in this FREE Special Report: [www.bayareahothomedeals.com/stop\_renting](www.bayareahothomedeals.com/stop_renting){: target="_blank" rel="noopener"}
 
-Keller Williams Realty Cupertino<br>408-763-8131<br>www.bayareahothomedeals.com<br>contact@sharadgupta.realtor<br>19400 Stevens Creek Blvd, Suite\#200, Cupertino CA 95014
+Keller Williams Realty Cupertino<br>408-763-8131<br>[www.bayareahothomedeals.com](www.bayareahothomedeals.com){: target="_blank" rel="noopener"}<br>contact@sharadgupta.realtor<br>19400 Stevens Creek Blvd, Suite\#200, Cupertino CA 95014
 
-Looking to buy a Bay Area home? View available homes for sale at https://www.sanjosehothomedeals.com/listings/Homes\_In\_SantaClara\_Alameda\_SanMateo\_ContraCosta\_From\_850000
+Looking to buy a Bay Area home? View available homes for sale at [https://www.sanjosehothomedeals.com/listings/Homes\_In\_SantaClara\_Alameda\_SanMateo\_ContraCosta\_From\_850000](https://www.sanjosehothomedeals.com/listings/Homes_In_SantaClara_Alameda_SanMateo_ContraCosta_From_850000){: target="_blank" rel="noopener"}
 
-Looking to sell a Bay Area home? Learn the value of your home in today's market at https://www.bayareahothomedeals.com/homeeval
+Looking to sell a Bay Area home? Learn the value of your home in today's market at [https://www.bayareahothomedeals.com/homeeval](https://www.bayareahothomedeals.com/homeeval){: target="_blank" rel="noopener"}
