@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HOMEward Bound
-date:
+date: 2020-10-16 20:29:44
 tags:
 excerpt: THE GIVING IT BACK AND PAYING IT FORWARD REAL ESTATE NEWSLETTER | OCTOBER 2020
 enclosure:
@@ -15,6 +15,8 @@ youtube_code:
 
 {% include youtube.html %}
 
-&nbsp;
+![](/uploads/4-page-mailer---october-1.jpg){: width="2479" height="3375"}
+
+![](/uploads/4-page-mailer---october-2.jpg){: width="2479" height="3327"}
 
 {% include pullquote.html %}
