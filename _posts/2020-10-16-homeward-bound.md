@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: HOMEward Bound
-date: 2020-10-16 18:04:36
+date: 2020-10-16 18:04:00
 tags:
 excerpt: THE GIVING IT BACK AND PAYING IT FORWARD REAL ESTATE NEWSLETTER | OCTOBER 2020
 enclosure:
