@@ -13,7 +13,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-![](/uploads/4-page-mailer---october-1.jpg){: width="2479" height="3375"}
+###### ![](/uploads/4-page-mailer---october-1.jpg){: width="2479" height="3375"}
 
 ![](/uploads/4-page-mailer---october-2.jpg){: width="2479" height="3327"}
 
