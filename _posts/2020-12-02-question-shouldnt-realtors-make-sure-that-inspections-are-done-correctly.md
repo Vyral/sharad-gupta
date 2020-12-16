@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Question: Shouldn''t realtors make sure that inspections are done correctly?'
-date: 2020-12-16 02:39:58
+date: 2020-12-02 02:39:00
 tags:
 excerpt:
 enclosure:
