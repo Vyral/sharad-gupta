@@ -3,7 +3,7 @@ layout: post
 title: >-
   For Traditional Home Inspection, What's The Price Point?(And what changes the
   price?)
-date: 2020-12-01 00:00:00
+date: 2020-12-07 00:00:00
 tags:
 excerpt:
 enclosure:
