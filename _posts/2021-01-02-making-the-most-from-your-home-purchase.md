@@ -15,8 +15,6 @@ youtube_code: 'https://youtu.be/SyFjAJ_uhSo'
 
 {% include youtube.html %}
 
-Making the most from your home purchase
-
 \#realestateagent \#RealEstateInvest \#RealEstateBroker \#realestateforsale \#realestateexperts \#realestatemarket \#homebuyers \#househunting \#houseforsale
 
 {% include pullquote.html %}
