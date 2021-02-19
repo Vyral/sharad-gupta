@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Beat out other buyers to the hottest new Properties.
 date: 2021-01-07 00:00:00
 tags:
 excerpt:
