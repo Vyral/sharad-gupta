@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'https://www.youtube.com/watch?v=h7TqtgYAERA'
+title:
 date: 2021-01-07 00:00:00
 tags:
 excerpt:
